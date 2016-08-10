@@ -1,0 +1,6 @@
+CLI: Command Line Interface
+GUI: Graphics User Interface
+To create a fodler & subfolder: 
+1.) Cd ../
+2.) mkdir "name"
+3.) mkdir "name/subfolder name"
