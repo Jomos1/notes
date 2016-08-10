@@ -1,6 +1,39 @@
 CLI: Command Line Interface
 GUI: Graphics User Interface
+
 To create a fodler & subfolder: 
 1.) Cd ../
 2.) mkdir "name"
 3.) mkdir "name/subfolder name"
+
+Create .html or .txt:
+Touch "name/x.html" or "name/subfolder/x.html or .txt"
+(e.g. touch main/sub/hi.txt)
+
+Tools:
+1.) Github
+2.) Gitshell
+3.) Sublime Text 2
+
+Levels of Knowing: 
+1.) Knowing and understanding
+2.) Teaching and reinforcing
+3.) Grocking - Understanding completely
+
+Git Shell // CLI commands
+ls - list directories
+cd - change into directories 
+../ - Move up
+cd / - go to root (c-drive)
+mkdir - create directory
+touch - create a file
+
+Git Commands
+
+git init -initialise project
+git status - checks prject status
+!!"clean" - no red in status!! - Do NOT use!!
+git add <file name>
+git commit -m <anything you want>
+
+!!DO NOT COPY AND PASTE CODE FROM INTERNET!!
