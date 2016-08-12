@@ -35,5 +35,6 @@ git status - checks prject status
 !!"clean" - no red in status!! - Do NOT use!!
 git add <file name>
 git commit -m <anything you want>
+git push - upload to repository
 
 !!DO NOT COPY AND PASTE CODE FROM INTERNET!!
