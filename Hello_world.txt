@@ -35,6 +35,22 @@ git status - checks prject status
 !!"clean" - no red in status!! - Do NOT use!!
 git add <file name>
 git commit -m <anything you want>
-git push - upload to repository
 
 !!DO NOT COPY AND PASTE CODE FROM INTERNET!!
+
+Tag(s)
+</a> - any </x> is a closing tag
+<p></p> - paragraph elements
+<header></header> - navigation/logo
+<footer></footer> - copyright
+<div></div> - block element (starts new lines)
+<span></span> - inline elements
+<a></a>
+<img/> - example of self closing tag
+<h1></h1> - header
+	<h1-6> - essentialy font size, 1 being the biggest
+
+Attributes: 
+
+<img src="http://awebsite.com/sumtin.jpg>"/>
+<--"comment"--> (no quotations) creates a comment that cannot be seen on the site but only in code
