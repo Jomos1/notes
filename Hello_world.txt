@@ -1,5 +1,7 @@
 CLI: Command Line Interface
 GUI: Graphics User Interface
+UI: User Interface
+UX: User Experience
 
 To create a fodler & subfolder: 
 1.) Cd ../
@@ -54,3 +56,4 @@ Attributes:
 
 <img src="http://awebsite.com/sumtin.jpg>"/>
 <--"comment"--> (no quotations) creates a comment that cannot be seen on the site but only in code
+
