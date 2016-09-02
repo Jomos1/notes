@@ -2,6 +2,8 @@ CLI: Command Line Interface
 GUI: Graphics User Interface
 UI: User Interface
 UX: User Experience
+CSS: Cascading Style Sheets
+HTML: Hyper Text Markup Language
 
 To create a fodler & subfolder: 
 1.) Cd ../
@@ -56,4 +58,15 @@ Attributes:
 
 <img src="http://awebsite.com/sumtin.jpg>"/>
 <--"comment"--> (no quotations) creates a comment that cannot be seen on the site but only in code
+
+
+-------------------------//CSS\\----------------------------
+Ways to intergrate styles into an element:
+Using <style=""> attribute 
+Place <style></style> inside <header></header>
+m
+Margin values
+2 Values: Top & Bottom
+3 Values: Left & Right
+ex: margin 50px<--Top/Bottom   100px<--Left/Right
 
