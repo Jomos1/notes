@@ -1,3 +1,4 @@
+---------------------------//BASICS\\-----------------------
 CLI: Command Line Interface
 GUI: Graphics User Interface
 UI: User Interface
@@ -17,7 +18,7 @@ Touch "name/x.html" or "name/subfolder/x.html or .txt"
 Tools:
 1.) Github
 2.) Gitshell
-3.) Sublime Text 2
+3.) Sublime Text 3
 
 Levels of Knowing: 
 1.) Knowing and understanding
@@ -58,8 +59,7 @@ Attributes:
 
 <img src="http://awebsite.com/sumtin.jpg>"/>
 <--"comment"--> (no quotations) creates a comment that cannot be seen on the site but only in code
-
-
+-------------------------\\END//----------------------------
 -------------------------//CSS\\----------------------------
 Ways to intergrate styles into an element:
 Using <style=""> attribute 
@@ -69,4 +69,19 @@ Margin values
 2 Values: Top & Bottom
 3 Values: Left & Right
 ex: margin 50px<--Top/Bottom   100px<--Left/Right
+
+Terms:
+
+EM - Unit of measure in CSS that adjusts parent times %150. Use them in responsive design and pixels on static pages.
+Specificity - Being specific when choosing tags (i.e. div#test span {color: green;} )
+-------------------------\\END//----------------------------
+------------------------//MISC\\----------------------------
+Responsive Design - Building a site to respond to multiple sizes also known as fluid design. (i.e. Google, Facebook. To find more look at awwwards.com)
+Grid Web Design - Web design w/ grid content.
+Media Queries - Break points in CSS that tell your app to change according to screensize. (To do this manually multiply pixel by 1.5)
+Mobile Design - A website design meant for mobile phones.
+	-Needs media queries for it to work
+
+
+
 
