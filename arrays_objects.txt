@@ -1,0 +1,13 @@
+
+NOTE:Start from zero (eg. 0, 1, 2, etc.)
+var tan = ["john", "jon", "cool", 3, 11, 7, 9, null, undefinied, ["no clothes", 27, null]
+
+console.log(tan[9][0]);
+
+var yoloSwag = {
+	isaiah : "beast",
+	hair : "awsum",
+	say : ["wait wut", "dont touch me", "hi"],
+	position : "kicker"
+};
+console.log(yoloswag.sayings[1]);

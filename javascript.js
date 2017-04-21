@@ -14,7 +14,7 @@ undefined
 //Not a Number
 NaN
 //array
-
+var array = ['one', 2, 'seven', 'lol', false];
 //objects
 
 //functions is an execute statement
